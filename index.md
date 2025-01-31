@@ -1,4 +1,6 @@
 # I am a New Header LOL
 ## An `h2` Header LOL
 
-Edited the Index.md file to contain two headers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Added an image to the Index.md file
