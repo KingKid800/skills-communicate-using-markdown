@@ -3,4 +3,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Added an image to the Index.md file
+## Python code example
+``` python
+myVar = "bruh"
+print(myVar)
+```
+Added a Python code example
