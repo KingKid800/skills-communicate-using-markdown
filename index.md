@@ -8,4 +8,10 @@
 myVar = "bruh"
 print(myVar)
 ```
-Added a Python code example
+
+## My checklist
+- [x] Write this list
+- [ ] Make $50k a year
+- [x] Make my own app
+
+Added a checklist for my life
